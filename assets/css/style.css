@@ -1,0 +1,26 @@
+h1, .jumbotron {
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	color: #fff;
+}
+
+.jumbotron {
+	background-image: url("../images/header-img.jpg");
+}
+
+body {
+	font-family: gothic;
+	text-align: center;
+  background-image: url("../images/back.jpg")
+}
+
+img {
+	width: 400px;
+	height: 400px;
+}
+
+.btn { 
+  color: #ffffff; 
+  background-color: #B8A351; 
+  border-color: #FFFFFF; 
+} 
